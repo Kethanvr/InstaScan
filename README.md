@@ -314,7 +314,7 @@ In a production environment, InstaScan would require:
 
 For questions, feedback, or support:
 
-- 📧 Email: support@instascan.app
+- 📧 Email: kethanvr@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/InstaScan/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/InstaScan/discussions)
 
